@@ -1,0 +1,4 @@
+Voiture(id,marque,kilometrage,boite(manuel/auto),typeCaburant,couleur, carosserie,modele, annéeFabiq, couleurIntereiur, couleurExterieur,prix,qte,imgP,description)
+
+
+
